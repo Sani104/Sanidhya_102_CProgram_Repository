@@ -1,1 +1,1 @@
-# Sanidhya_102_CProgram_Repository
+# Sanidhya_CProgram_Repository
